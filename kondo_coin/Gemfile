@@ -15,7 +15,7 @@ gem 'state_machine', '1.2.0'
 gem 'prawn', "~> 0.12.0"
 gem 'xml-simple', "~> 1.1.2"
 gem "bitstamp", "~> 0.3.0"
-gem "bitcoin-client" 
+gem "bitcoin-client" , ">= 0.0.3"
 gem "whenever", "0.8.4"
 # See https://github.com/seanbehan/videojs_rails for instructions
 gem "videojs_rails", "4.1.0"
